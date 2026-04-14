@@ -1,0 +1,14 @@
+C:\Users\sean\Desktop\SHOPPING CART\bin\Debug\net10.0\SHOPPING CART.exe
+C:\Users\sean\Desktop\SHOPPING CART\bin\Debug\net10.0\SHOPPING CART.deps.json
+C:\Users\sean\Desktop\SHOPPING CART\bin\Debug\net10.0\SHOPPING CART.runtimeconfig.json
+C:\Users\sean\Desktop\SHOPPING CART\bin\Debug\net10.0\SHOPPING CART.dll
+C:\Users\sean\Desktop\SHOPPING CART\bin\Debug\net10.0\SHOPPING CART.pdb
+C:\Users\sean\Desktop\SHOPPING CART\obj\Debug\net10.0\SHOPPING CART.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean\Desktop\SHOPPING CART\obj\Debug\net10.0\SHOPPING CART.AssemblyInfoInputs.cache
+C:\Users\sean\Desktop\SHOPPING CART\obj\Debug\net10.0\SHOPPING CART.AssemblyInfo.cs
+C:\Users\sean\Desktop\SHOPPING CART\obj\Debug\net10.0\SHOPPING CART.csproj.CoreCompileInputs.cache
+C:\Users\sean\Desktop\SHOPPING CART\obj\Debug\net10.0\SHOPPING CART.dll
+C:\Users\sean\Desktop\SHOPPING CART\obj\Debug\net10.0\refint\SHOPPING CART.dll
+C:\Users\sean\Desktop\SHOPPING CART\obj\Debug\net10.0\SHOPPING CART.pdb
+C:\Users\sean\Desktop\SHOPPING CART\obj\Debug\net10.0\SHOPPING CART.genruntimeconfig.cache
+C:\Users\sean\Desktop\SHOPPING CART\obj\Debug\net10.0\ref\SHOPPING CART.dll
