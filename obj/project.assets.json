@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sean\\Desktop\\SHOPPING CART\\SHOPPING CART.csproj",
+      "projectUniqueName": "C:\\Users\\sean\\Desktop\\SHOPPING CART UPDATED\\SHOPPING-CART\\SHOPPING CART.csproj",
       "projectName": "SHOPPING CART",
-      "projectPath": "C:\\Users\\sean\\Desktop\\SHOPPING CART\\SHOPPING CART.csproj",
+      "projectPath": "C:\\Users\\sean\\Desktop\\SHOPPING CART UPDATED\\SHOPPING-CART\\SHOPPING CART.csproj",
       "packagesPath": "C:\\Users\\sean\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sean\\Desktop\\SHOPPING CART\\obj\\",
+      "outputPath": "C:\\Users\\sean\\Desktop\\SHOPPING CART UPDATED\\SHOPPING-CART\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sean\\AppData\\Roaming\\NuGet\\NuGet.Config",
