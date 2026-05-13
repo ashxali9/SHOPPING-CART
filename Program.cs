@@ -1,12 +1,37 @@
-﻿using System;
+using System;
 
 class Product
 {
-    public int Id;
-    public string Name = "";
-    public string Category = "";
-    public double Price;
-    public int RemainingStock;
+    private int Id;
+    private string Name = "";
+    private string Category = "";
+    private double Price;
+    private int RemainingStock;
+
+    public int Id{
+        get { return Id; }
+        set { Id = value; }
+    }
+
+    public string Name{
+        get { return Name; }
+        set { Name = value; }
+    }
+
+    public string Category{
+        get { return Category; }
+        set { Category = value; }
+    }
+
+    public double Price{
+        get { return Price; }
+        set { Price = value; }
+    }
+
+    public int RemainingStock{
+        get { return RemainingStock; }
+        set { RemainingStock = value; }
+    }
 
     public void Display()
     {
@@ -31,9 +56,24 @@ class Product
 
 class CartItem
 {
-    public Product Product = new Product();
-    public int Quantity;
-    public double SubTotal;
+    private Product product = new Product();
+    private int quantity;
+    private double subtotal;
+
+    public Product Product{
+        get { return product; }
+        set { product = value; }
+    }
+
+    public int Quantity{
+        get { return quantity; }
+        set { quantity = value; }
+    }
+
+    public double SubTotal{
+        get { return subtotal; }
+        set { subtotal = value; }
+    }
 
     public void UpdateSubtotal()
     {
@@ -43,9 +83,24 @@ class CartItem
 
 class Order
 {
-    public string ReceiptNumber = "";
-    public DateTime Date;
-    public double FinalTotal;
+    private string ReceiptNumber = "";
+    private DateTime Date;
+    private double FinalTotal;
+
+    public string ReceiptNumber{
+        get { return ReceiptNumber; }
+        set { ReceiptNumber = value; }
+    }
+
+    public DateTime Date{
+        get { return Date; }
+        set { Date = value; }
+    }
+
+    public double FinalTotal{
+        get { return FinalTotal; }
+        set { FinalTotal = value; }
+    }
 }
 
 class Program
